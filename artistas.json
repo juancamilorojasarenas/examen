@@ -1,0 +1,22 @@
+[
+    {
+        "nombre artista": "jhon",
+        "pais": "croacia",
+        "periodo de actividad": 1970,
+        "fecha del primer exito": "25 de julio de 1970",
+        "genero musical": "rock",
+        "unidades certificadas": 72,
+        "ventas reclamadas": 70,
+        "estado de actividad": "no"
+    },
+    {
+        "nombre artista": "cafu",
+        "pais": "brazil",
+        "periodo de actividad": 30,
+        "fecha del primer exito": "2002",
+        "genero musical": "zamba du brasil",
+        "unidades certificadas": 120,
+        "ventas reclamadas": 100,
+        "estado de actividad": "no"
+    }
+]

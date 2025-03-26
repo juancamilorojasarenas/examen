@@ -1,0 +1,12 @@
+[
+    {
+        "nombre del pais": "alemania",
+        "codigo ISO": "ALM",
+        "codigo ISO3": "ALM-002"
+    },
+    {
+        "nombre del pais": "brasil",
+        "codigo ISO": "BRS",
+        "codigo ISO3": "BR-001"
+    }
+]
