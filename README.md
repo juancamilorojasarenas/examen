@@ -16,7 +16,7 @@ Es un sistema que permite gestionar los datos de artistas musicales, además de 
 - Al escoger una opción, el programa mostrará submenús con nuevas opciones.
 - Según la opción ingresada, el programa ejecutará una serie de pasos.
 ### Estado del proyecto
-Imcompleto.
+En desarrollo.
 ### Lenguajes usados
 Python.
 ### Tecnologías usadas
